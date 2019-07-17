@@ -1,6 +1,6 @@
 <html>
 <head> Git Page</head>
 <body bgcolor="pink">
-<h1> Welcome to Git</h1>
+<h1> Welcome to Git Everyone</h1>
 </body>
 </html>
